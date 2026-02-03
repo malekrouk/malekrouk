@@ -1,11 +1,8 @@
 <h1 align="center">Welcome, I'm Malek Mahmoud</h1>
 <h3 align="center">Undergraduate Computer Engineer at AUC. Actively pursuing a career towards being a software engineer.</h3>
 
-- 🔭 I’m currently working on **Leetcode problems**
 
-- 🌱 I’m currently learning **data structures**
-
-- 👯 I’m looking to collaborate on **projects related to data structure and analysis**
+- 👯 I’m looking to collaborate on **real world, industry-driven software projects**
 
 - 🤝 I’m looking for **summer internships**
 
