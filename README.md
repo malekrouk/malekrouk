@@ -2,7 +2,7 @@
 <h3 align="center">Undergraduate Computer Engineer at AUC. Actively pursuing a career towards being a software engineer.</h3>
 
 
-- 👯 I’m looking to collaborate on **real world, industry-driven software projects**
+- 👯 I’m looking to collaborate on **real world, industry driven software projects**
 
 - 🤝 I’m looking for **summer internships**
 
