@@ -1,5 +1,5 @@
 <h1 align="center">Welcome, I'm Malek Mahmoud</h1>
-<h3 align="center">Undergraduate Computer Engineer at AUC. Actively pursuing a career towards being a software engineer. Programming is the brush to my canvas.</h3>
+<h3 align="center">Undergraduate Computer Engineer at AUC. Actively pursuing a career towards being a software engineer.</h3>
 
 - 🔭 I’m currently working on **Leetcode problems**
 
